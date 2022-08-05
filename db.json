@@ -1,0 +1,35 @@
+{
+    "users" : [
+        {
+            "name" : "Shiv",
+            "lastName" : "Kumar",
+            "email" : "shivkumar@gmail.com",
+            "phone" : "9056434275",
+            "id" : "1"
+        },
+
+        {
+            "name" : "Lovely",
+            "lastName" : "Sharma",
+            "email" : "lovelysharma@gmail.com",
+            "phone" : "8046634275",
+            "id" : "2"
+        },
+
+        {
+            "name" : "Vishnu",
+            "lastName" : "Sharma",
+            "email" : "vishnu@gmail.com",
+            "phone" : "9056434343",
+            "id" : "3"
+        },
+
+        {
+            "name" : "Yogesh",
+            "lastName" : "Shonak",
+            "email" : "shonak@gmail.com",
+            "phone" : "9053423427",
+            "id" : "4"
+        }
+    ]
+}
