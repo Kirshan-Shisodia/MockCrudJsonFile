@@ -1,25 +1,25 @@
 {
     "movies" : [
         {
-"genre_type": [
-"Adventure",
-"Comedy",
-"Drama"
-],
-"_id": 7,
-"original_title": "777 Charlie",
-"type": "movie",
-"release_date": "2022-06-10",
-"vote_average": 7.8,
-"overview": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
-"vote_count": 11,
-"run_time": 104,
-"backdrop_path": "https://i.ibb.co/GFp2srb/777-Charlie-Backdrop.jpg",
-"poster_path": "https://i.ibb.co/wB2Bxhb/777-Charlie-Poster.jpg",
-"screenshot_one_link": "https://i.ibb.co/5jBBkd7/777-Charlie-2022-DUAL-REPACK-001.png",
-"screenshot_two_link": "https://i.ibb.co/yN579vY/777-Charlie-2022-DUAL-REPACK-002.png",
-"screenshot_three_link": "https://i.ibb.co/26kB3jy/777-Charlie-2022-DUAL-REPACK-003.png",
-"__v": 0
-},
+            "genre_type": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+            ],
+            "_id": 7,
+            "original_title": "777 Charlie",
+            "type": "movie",
+            "release_date": "2022-06-10",
+            "vote_average": 7.8,
+            "overview": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
+            "vote_count": 11,
+            "run_time": 104,
+            "backdrop_path": "https://i.ibb.co/GFp2srb/777-Charlie-Backdrop.jpg",
+            "poster_path": "https://i.ibb.co/wB2Bxhb/777-Charlie-Poster.jpg",
+            "screenshot_one_link": "https://i.ibb.co/5jBBkd7/777-Charlie-2022-DUAL-REPACK-001.png",
+            "screenshot_two_link": "https://i.ibb.co/yN579vY/777-Charlie-2022-DUAL-REPACK-002.png",
+            "screenshot_three_link": "https://i.ibb.co/26kB3jy/777-Charlie-2022-DUAL-REPACK-003.png",
+            "__v": 0
+        },
     ]
 }
