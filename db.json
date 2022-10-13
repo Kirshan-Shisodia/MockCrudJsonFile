@@ -129,47 +129,5 @@
             "screenshot_three_link": "https://i.ibb.co/H47zhvC/Rocketry-Hindi-003.png",
             "__v": 0
         },
-        {
-            "genre_type": [
-            "Action",
-            "Crime",
-            "Drama",
-            "Thriller"
-            ],
-            "_id": 13,
-            "original_title": "K.G.F: Chapter 2",
-            "type": "movie",
-            "release_date": "2022-04-14",
-            "vote_average": 7.7,
-            "overview": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
-            "vote_count": 77,
-            "run_time": 168,
-            "backdrop_path": "https://i.ibb.co/dtvbhrh/KGF-Chapter-2-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/Sn4tpdH/KGF-Chapter-2-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/HhTD82s/001.png",
-            "screenshot_two_link": "https://i.ibb.co/59W1sCf/002.png",
-            "screenshot_three_link": "https://i.ibb.co/x2kP4yB/003.png",
-            "__v": 0
-         },
-         {
-            "genre_type": [
-            "Action",
-            "Drama"
-            ],
-            "_id": 14,
-            "original_title": "RRR",
-            "type": "movie",
-            "release_date": "2022-03-24",
-            "vote_average": 7.8,
-            "overview": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
-            "vote_count": 390,
-            "run_time": 187,
-            "backdrop_path": "https://i.ibb.co/QPYYZxw/R-R-R-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/6NCMBbm/R-R-R-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/cLw8kj8/RRR-2022-DUAL-1080p-WEBRip-DDP-Atmos-5-1-HEVC-Musafir-Boy-mkv-snapshot-00-09-13-417.png",
-            "screenshot_two_link": "https://i.ibb.co/G2z6JyW/RRR-2022-DUAL-1080p-WEBRip-DDP-Atmos-5-1-HEVC-Musafir-Boy-mkv-snapshot-00-49-53-959.png",
-            "screenshot_three_link": "https://i.ibb.co/Dt9zG4r/RRR-2022-DUAL-1080p-WEBRip-DDP-Atmos-5-1-HEVC-Musafir-Boy-mkv-snapshot-00-49-55-875.png",
-            "__v": 0
-          },
     ]
 }
