@@ -171,46 +171,5 @@
             "screenshot_three_link": "https://i.ibb.co/Dt9zG4r/RRR-2022-DUAL-1080p-WEBRip-DDP-Atmos-5-1-HEVC-Musafir-Boy-mkv-snapshot-00-49-55-875.png",
             "__v": 0
           },
-          {
-            "genre_type": [
-            "Action",
-            "Adventure",
-            "Drama"
-            ],
-            "_id": 15,
-            "original_title": "The Lord of the Rings: The Rings of Power Global Fan Screening",
-            "type": "webseries",
-            "release_date": "2022-08-31",
-            "vote_average": 7.5,
-            "overview": "An edited version of the first two episodes of The Lord of the Rings: The Rings of Power, shown exclusively to fans in cinemas around the world in August 2022. In a time of relative peace, an ensemble cast of characters confronts the re-emergence of evil to Middle-earth.",
-            "vote_count": 12,
-            "run_time": 40,
-            "backdrop_path": "https://i.ibb.co/BKzrcGn/The-Lord-of-the-Rings-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/jkB7GFs/The-Lord-of-the-Rings-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/dmmbWCZ/The-Lord-of-the-Rings-SS01.png",
-            "screenshot_two_link": "https://i.ibb.co/s2LPzC4/The-Lord-of-the-Rings-SS02.png",
-            "screenshot_three_link": "https://i.ibb.co/8bMPYZ8/The-Lord-of-the-Rings-SS03.png",
-            "__v": 0
-            },
-            {
-            "genre_type": [
-            "Comedy, Drama, Romance"
-            ],
-            "_id": 16,
-            "original_title": "Laal Singh Chaddha",
-            "type": "movie",
-            "release_date": "2022-08-11",
-            "vote_average": 6.5,
-            "overview": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots — unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
-            "vote_count": 22,
-            "run_time": 159,
-            "tagline": "",
-            "backdrop_path": "https://i.ibb.co/BwzfJrg/Laal-Singh-Chaddha-Dropback.jpg",
-            "poster_path": "https://i.ibb.co/NtNTFPW/Laal-Singh-Chaddha-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/T4yXJ2q/Laal-Singh-Chaddha-01.png",
-            "screenshot_two_link": "https://i.ibb.co/9wzFMNC/Laal-Singh-Chaddha-02.png",
-            "screenshot_three_link": "https://i.ibb.co/mR9zWJX/Laal-Singh-Chaddha-03.png",
-            "__v": 0
-            }
     ]
 }
