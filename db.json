@@ -1,106 +1,25 @@
 {
     "movies" : [
         {
-            
-            "_id": 7,
-            "original_title": "777 Charlie",
-            "type": "movie",
-            "release_date": "2022-06-10",
-            "vote_average": 7.8,
-            "overview": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
-            "vote_count": 11,
-            "run_time": 104,
-            "backdrop_path": "https://i.ibb.co/GFp2srb/777-Charlie-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/wB2Bxhb/777-Charlie-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/5jBBkd7/777-Charlie-2022-DUAL-REPACK-001.png",
-            "screenshot_two_link": "https://i.ibb.co/yN579vY/777-Charlie-2022-DUAL-REPACK-002.png",
-            "screenshot_three_link": "https://i.ibb.co/26kB3jy/777-Charlie-2022-DUAL-REPACK-003.png",
-            "__v": 0
-        },
-        {
-           
-            "_id": 8,
-            "original_title": "Vikrant Rona",
-            "type": "movie",
-            "release_date": "2022-07-28",
-            "vote_average": 7.4,
-            "overview": "Almost half a century ago, a remote village in the middle of a tropical rain forest starts witnessing a series of unexplainable events which they attribute to the supernatural. Vikrant Rona, An eccentric police officer, is assigned to solve the mystery.  A mysterious game unfolds where everyone in the village is a potential victim and everyone is a suspect.",
-            "vote_count": 6,
-            "run_time": 148,
-            "backdrop_path": "https://i.ibb.co/52kbkf9/Vikrant-Rona-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/g6wXyJq/Vikrant-Rona-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/tXccbXw/Vikrant-Rona-2022-DUAL-REPACK-001.png",
-            "screenshot_two_link": "https://i.ibb.co/bPnz9wP/Vikrant-Rona-2022-DUAL-REPACK-002.png",
-            "screenshot_three_link": "https://i.ibb.co/cyhQN07/Vikrant-Rona-2022-DUAL-REPACK-003.png",
-            "__v": 0
-         },
-         {
-           
-            "_id": 9,
-            "original_title": "FIR",
-            "type": "movie",
-            "release_date": "2022-02-11",
-            "vote_average": 4.8,
-            "overview": "Irfan, an innocent Muslim chemical engineer with an ordinary life, is caught in inexplicable circumstances, when accused of being a most-wanted terrorist, that alter his life & everyone around him.",
-            "vote_count": 4,
-            "run_time": 156,
-            "backdrop_path": "https://i.ibb.co/WKQf3v3/FIR-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/K20JVDX/FIR-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/h2dRMzm/FIR-REPACK-001.png",
-            "screenshot_two_link": "https://i.ibb.co/nfr7kZc/FIR-REPACK-002.png",
-            "screenshot_three_link": "https://i.ibb.co/vC9sfM9/FIR-REPACK-003.png",
-            "__v": 0
-        },
-        {
-            
-            "_id": 10,
-            "original_title": "HIT: The First Case",
-            "type": "movie",
-            "release_date": "2022-07-15",
-            "vote_average": 5.7,
-            "overview": "Burdened by old demons, a troubled but brilliant detective sets out to solve two confounding abduction cases — one involving his own girlfriend.",
-            "vote_count": 7,
-            "run_time": 132,
-            "backdrop_path": "https://i.ibb.co/GQ0GBSG/HIT-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/4mLpNCc/HIT-Postre.jpg",
-            "screenshot_one_link": "https://i.ibb.co/mBZ9x1k/HIT-The-First-Case-2022-Hindi-1080p-WEBRip-10bit-DDP-5-1-HEVC-Musafirboy-00-03-29-681.png",
-            "screenshot_two_link": "https://i.ibb.co/h8BHsXj/HIT-The-First-Case-2022-Hindi-1080p-WEBRip-10bit-DDP-5-1-HEVC-Musafirboy-00-19-09-800.png",
-            "screenshot_three_link": "https://i.ibb.co/vX36XdH/HIT-The-First-Case-2022-Hindi-1080p-WEBRip-10bit-DDP-5-1-HEVC-Musafirboy-01-20-41-670.png",
-            "__v": 0
-        },
-        {
-           
-            "_id": 11,
-            "original_title": "Liger",
-            "type": "movie",
-            "release_date": "2022-08-25",
-            "vote_average": 3.3,
-            "overview": "The journey of Liger, from Karimnagar to Mumbai, from a nobody to a competitor, in his search for recognition while navigating his weaknesses, relationships, and love life.",
-            "vote_count": 4,
-            "run_time": 140,
-            "backdrop_path": "https://i.ibb.co/g43MWGB/Liger-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/6J8hMnK/Liger-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/Y0w3Qxs/Liger-2022-DUAL-REPACK-001.png",
-            "screenshot_two_link": "https://i.ibb.co/TqyPKHw/Liger-2022-DUAL-REPACK-002.png",
-            "screenshot_three_link": "https://i.ibb.co/YWKJsZf/Liger-2022-DUAL-REPACK-003.png",
-            "__v": 0
-        },
-        {
-            
-            "_id": 12,
-            "original_title": "Rocketry: The Nambi Effect",
-            "type": "movie",
-            "release_date": "2022-07-01",
-            "vote_average": 7.1,
-            "overview": "Based by the life of ISRO Scientist Nambi Narayanan who was falsely accused of being a spy and arrested in 1994. Though free, he is still fighting for justice, with those police officials alleged to have falsely implicated him, still free.",
-            "vote_count": 14,
-            "run_time": 157,
-            "backdrop_path": "https://i.ibb.co/yXcFZ1c/Rocketry-Backdrop.jpg",
-            "poster_path": "https://i.ibb.co/8cdnm4Y/Rocketry-Poster.jpg",
-            "screenshot_one_link": "https://i.ibb.co/bFdSWmb/Rocketry-Hindi-001.png",
-            "screenshot_two_link": "https://i.ibb.co/09sT9s8/Rocketry-Hindi-002.png",
-            "screenshot_three_link": "https://i.ibb.co/H47zhvC/Rocketry-Hindi-003.png",
-            "__v": 0
-        },
+"genre_type": [
+"Adventure",
+"Comedy",
+"Drama"
+],
+"_id": 7,
+"original_title": "777 Charlie",
+"type": "movie",
+"release_date": "2022-06-10",
+"vote_average": 7.8,
+"overview": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
+"vote_count": 11,
+"run_time": 104,
+"backdrop_path": "https://i.ibb.co/GFp2srb/777-Charlie-Backdrop.jpg",
+"poster_path": "https://i.ibb.co/wB2Bxhb/777-Charlie-Poster.jpg",
+"screenshot_one_link": "https://i.ibb.co/5jBBkd7/777-Charlie-2022-DUAL-REPACK-001.png",
+"screenshot_two_link": "https://i.ibb.co/yN579vY/777-Charlie-2022-DUAL-REPACK-002.png",
+"screenshot_three_link": "https://i.ibb.co/26kB3jy/777-Charlie-2022-DUAL-REPACK-003.png",
+"__v": 0
+},
     ]
 }
