@@ -1,11 +1,7 @@
 {
     "movies" : [
         {
-            "genre_type": [
-            "Adventure",
-            "Comedy",
-            "Drama"
-            ],
+            
             "_id": 7,
             "original_title": "777 Charlie",
             "type": "movie",
@@ -22,13 +18,7 @@
             "__v": 0
         },
         {
-            "genre_type": [
-            "Adventure",
-            "Comedy",
-            "Drama",
-            "Mystery",
-            "Thriller"
-            ],
+           
             "_id": 8,
             "original_title": "Vikrant Rona",
             "type": "movie",
@@ -45,10 +35,7 @@
             "__v": 0
          },
          {
-            "genre_type": [
-            "Action",
-            "Thriller"
-            ],
+           
             "_id": 9,
             "original_title": "FIR",
             "type": "movie",
@@ -65,13 +52,7 @@
             "__v": 0
         },
         {
-            "genre_type": [
-            "Action",
-            "Crime",
-            "Drama",
-            "Mystery",
-            "Thriller"
-            ],
+            
             "_id": 10,
             "original_title": "HIT: The First Case",
             "type": "movie",
@@ -88,12 +69,7 @@
             "__v": 0
         },
         {
-            "genre_type": [
-            "Action",
-            "Drama",
-            "Romance",
-            "sport"
-            ],
+           
             "_id": 11,
             "original_title": "Liger",
             "type": "movie",
@@ -110,10 +86,7 @@
             "__v": 0
         },
         {
-            "genre_type": [
-            "Biography",
-            "Drama"
-            ],
+            
             "_id": 12,
             "original_title": "Rocketry: The Nambi Effect",
             "type": "movie",
@@ -129,5 +102,5 @@
             "screenshot_three_link": "https://i.ibb.co/H47zhvC/Rocketry-Hindi-003.png",
             "__v": 0
         },
-    ],
+    ]
 }
